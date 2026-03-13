@@ -1,4 +1,4 @@
-# We're [exaring](https://www.exaring.de), makers of germany's best streaming service:
+# We're [EXARING](https://www.exaring.de), makers of Germany's best streaming service:
 
 <a href="https://waipu.tv" target="_blank">
 <picture>
